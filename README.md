@@ -1,9 +1,9 @@
-Titanic Hayatta Kalma Tahmini (Makine Öğrenmesi)
+#Titanic Hayatta Kalma Tahmini (Makine Öğrenmesi)
 Bu proje, Kaggle üzerindeki meşhur Titanic veri setini kullanarak, 
 yolcuların belirli özelliklerine (yaş, cinsiyet, yolcu sınıfı vb.) göre hayatta kalıp kalmayacaklarını tahmin eden bir makine öğrenmesi modelidir.
-🚀 Projenin Amacı
+##🚀 Projenin Amacı
 Bu çalışma, bir sınıflandırma problemi olan Titanic yolcu verilerini analiz ederek Lojistik Regresyon (Logistic Regression) algoritması ile tahminleme yapmayı amaçlar.
-📊 Kullanılan Teknolojiler ve Veri Seti
+##📊 Kullanılan Teknolojiler ve Veri Seti
 Veri Seti: Kaggle Titanic Dataset
 Dil: Python
 Kütüphaneler: * Pandas & Numpy (Veri manipülasyonu)
